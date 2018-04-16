@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Nigeria Regions
+ *
+ * @license    http://www.opensource.org/licenses/mit-license.html  MIT License
+ * @author     Damián Culotta (http://www.damianculotta.com.ar/)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Barbanet_NigeriaRegions" setup_version="1.0.0">
+        <sequence>
+            <module name="Magento_Directory" />
+        </sequence>
+    </module>
+</config>
